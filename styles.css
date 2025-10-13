@@ -10,7 +10,10 @@ h2 {
     color:rgb(154, 132, 198) ;
 }
 
-.projects { display:flex; flex-wrap:wrap; } 
+.projects { 
+    display:flex;
+    flex-wrap:wrap;
+ } 
     /* condensed to save space */
 .project {
     width: 30%;
