@@ -22,3 +22,12 @@ h2 {
     background: rgb(152, 218, 141); /* pick a color */
     border-radius: 25%;
 }
+
+a{ /* Change apparence of ALL links*/
+    text-decoration: none;
+    color:burlywood;
+}
+.project p { /* Change the appearance of paragraph tags inside .projects*/
+    text-align: center;
+    margin: 15px;
+}
