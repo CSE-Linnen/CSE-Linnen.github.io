@@ -29,5 +29,5 @@ a{ /* Change apparence of ALL links*/
 }
 .project p { /* Change the appearance of paragraph tags inside .projects*/
     text-align: center;
-    margin: 15px;
+    margin: 40px;
 }
