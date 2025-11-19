@@ -10,7 +10,7 @@ text-align: center;
     display:flex;
     flex-wrap:wrap;
  } 
-.prjects h2 {
+.projects h2 {
     color:rgb(154, 132, 198) ;
     width:100%;
 }
@@ -29,7 +29,7 @@ text-align: center;
 }
 .project img {
     /* adjust your image sizes as needed */
-    width: 400px;
+    width: 300px;
     height: 300px;
     margin: 10px auto;
     border: 2px solid lightseagreen;
