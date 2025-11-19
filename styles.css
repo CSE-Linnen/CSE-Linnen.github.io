@@ -13,6 +13,7 @@ text-align: center;
 .projects h2 {
     color:rgb(154, 132, 198) ;
     width:100%;
+    text-align: center;
 }
     /* condensed to save space */
 .project {
